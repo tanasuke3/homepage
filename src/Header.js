@@ -4,11 +4,11 @@ function Header() {
     return (
         <header>
             <h1>tanabe homepage</h1>
-            <nav>
+            {/* <nav>
                 <a href="#about">About</a>
                 <a href="#projects">Projects</a>
                 <a href="#contact">Contact</a>
-            </nav>
+            </nav> */}
         </header>
     );
 }

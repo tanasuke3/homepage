@@ -2,7 +2,8 @@ import React from 'react';
 
 function About() {
     return (
-        < p > tanabeのホームページ </p >
+        < p > tanabeのホームページ </p >,
+        <img src='../images/icon.png' />
     );
 }
 
