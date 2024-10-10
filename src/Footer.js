@@ -1,16 +1,16 @@
 import React from 'react';
 
-function Header() {
+function Footer() {
     return (
-        <header>
-            <h1>My Personal Homepage</h1>
+        <footer>
+            <h1></h1>
             <nav>
                 <a href="#about">About</a>
                 <a href="#projects">Projects</a>
                 <a href="#contact">Contact</a>
             </nav>
-        </header>
+        </footer>
     );
 }
 
-export default Header;
+export default Footer;

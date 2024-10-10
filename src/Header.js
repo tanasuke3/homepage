@@ -3,7 +3,7 @@ import React from 'react';
 function Header() {
     return (
         <header>
-            <h1>My Personal Homepage</h1>
+            <h1>tanabe homepage</h1>
             <nav>
                 <a href="#about">About</a>
                 <a href="#projects">Projects</a>
